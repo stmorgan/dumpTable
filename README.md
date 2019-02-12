@@ -1,2 +1,2 @@
 # dumpTable
-PHP Script for dumping contents of MYSQL table. 
+PHP Script for dumping contents of a MYSQL table. 
